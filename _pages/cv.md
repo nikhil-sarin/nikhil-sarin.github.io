@@ -9,36 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://nikhil-sarin.github.io/files/nikhil_cv.pdf" style="color: blue; text-decoration: underline;text-decoration-style: dotted;">Click here for full CV in PDF (updated May 28th 2022)</a>.
+<a href="https://nikhil-sarin.github.io/files/nikhil_cv.pdf" style="color: blue; text-decoration: underline;text-decoration-style: dotted;">Click here for full CV in PDF (updated July 8th 2025)</a>.
 
 Education
 ======
 * PhD in Astrophysics, Monash University, 2018-2021
 * Bachelor of Science. Major in Astrophysics and Geology, Honours (1st class) in Astrophysics, Monash University, 2013-2017
 
-Work experience
+Awards/Fellowships
 ======
-* Nordita Institute & Stockholm University: November 2021-Ongoing
-  * Nordita Fellow.
-* Monash University: July 2021 - November 2021
-  * Postdoctoral research fellow.
-* Monash University: Feb 2017 - January 2021
-  * Teaching Assistant/Tutor
-
-Skills
-======
-* Python
-* Latex
-* Fortran
-* Git
-* Bash
-* HTML
-* Mathematica
-* Stan
-
-Awards
-======
-* Nordita Postdoctoral Fellowship 2021-2024.
+* Kavli Senior Fellowship, 2025-2030
+* Nordita Postdoctoral Fellowship 2021-2025.
 * Vice-Chancellor’s Commendation for Doctoral Thesis Excellence, 2021 - One prize awarded across the Science Faculty
 * Robert Street Doctoral Prize, 2021 - Best thesis in Monash University School of Physics and Astronomy
 * Australian Research Council Research Training Scheme - PhD Scholarship 2018-2021
