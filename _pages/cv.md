@@ -26,15 +26,3 @@ Awards/Fellowships
 * ASA Conference - Runner-up in best student talk competition at the Annual Astronomical Society of Australia (ASA) meeting 2018.
 * MoCA Prize - Best astrophysics honours student at Monash, 2017
 * J.L Williams Honours scholarship, 2017
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
