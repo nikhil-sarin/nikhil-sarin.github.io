@@ -12,19 +12,21 @@ I am a Kavli Senior Fellow at the Kavli Institute for Cosmology at the Universit
 and at the Institute of Astronomy, University of Cambridge. 
 Previously, I was a Nordita/OKC postdoctoral fellow at the Nordita Institute and the 
 Oskar Klein Center at Stockholm University. 
-I am a theoretical astrophysicist who works on modelling and closely with data where I utilise
-statistical techniques to interpret the observations of electromagnetic transients, 
-and gravitational waves involving neutron-star binaries. 
+My journey started at Monash University, where I completed my PhD in astrophysics in 2021.
+I am a theoretical astrophysicist using a combination of analytical and numerical modelling combined with powerful 
+statistical techniques such as Bayesian inference, hierarchical modelling, 
+and machine learning to interpret observations.
 I am particularly interested in the multi-messenger astrophysics of neutron star mergers, 
-and the lightcurves of electromagnetic transients like GRBs, supernovae, TDEs, and kilonovae,
-You may sometimes see me working on neutron star formation and evolution as well. 
+the lightcurves of electromagnetic transients like GRBs, supernovae, TDEs, and kilonovae, 
+and neutron stars in general.
 
 I am a member of numerous collaborations working on electromagnetic transients and gravitational waves, 
 including the LIGO Scientific Collaboration (LSC) and 
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
-* 25th June 2025: Das et al. 2025 - _Low-Luminosity Type IIP Supernovae from the Zwicky Transient Facility Census of the Local Universe. II: Lightcurve Analysis_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2506.20068)
+* 10th July 2025: Wise et al. 2025 - _AT2019cmw: A highly luminous, cooling featureless TDE candidate from the disruption of a high mass star in an early-type galaxy_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2507.07380).
+* 25th June 2025: Das et al. 2025 - _Low-Luminosity Type IIP Supernovae from the Zwicky Transient Facility Census of the Local Universe. II: Lightcurve Analysis_ submitted to ApJ. Check it out on [arXiv](https://arxiv.org/abs/2506.20068)
 * 23th-27th June 2025: This week I am in Cork, attending the EAS meeting. I am giving an invited talk Fast X-ray transients, and another talk on kilonovae. 
 * 13th June 2025: Gangopadhyay et al. 2025 - _SN 2023xgo: Helium rich Type Icn or Carbon-Flash Type Ibn supernova?_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2506.10700).
 * 4th June 2025: Sarin et al. 2025 - _Surrogate models for lightcurves and photosphere properties of Type II supernovae_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2506.02107).
