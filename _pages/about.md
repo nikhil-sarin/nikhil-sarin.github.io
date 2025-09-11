@@ -25,6 +25,12 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 8th-12th September 2025: This week I am in Hamburg, attending the rattle and shine workshop conference. I am giving a talk on BNS mergers.
+* 1st-3rd September 2025: This week I am attending the Wetton workshop at Oxford. Lots of discussion here about the future of multi-messenger astronomy.
+* 2nd September 2025: Swain et al. 2025 - _GRB 250704B: An Off-axis Short GRB with a Long-Lived Afterglow Plateau_. Check it out on [arXiv](https://arxiv.org/abs/2509.02769).
+* 20th August 2025: Schulze et al. 2025 - _Extremely stripped supernova reveals a silicon and sulfur formation site_ published in Nature! The paper even made it to the cover page.
+* 19th August 2025: Moved to Cambridge, UK.
+* 18th August 2025: Jonker et al. 2025 - _EP250207b is not a collapsar fast X-ray transient. Is it due to a compact object merger?_. Check it out on the [arXiv](https://arxiv.org/abs/2508.13039). 
 * 10th July 2025: Wise et al. 2025 - _AT2019cmw: A highly luminous, cooling featureless TDE candidate from the disruption of a high mass star in an early-type galaxy_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2507.07380).
 * 25th June 2025: Das et al. 2025 - _Low-Luminosity Type IIP Supernovae from the Zwicky Transient Facility Census of the Local Universe. II: Lightcurve Analysis_ submitted to ApJ. Check it out on [arXiv](https://arxiv.org/abs/2506.20068)
 * 23th-27th June 2025: This week I am in Cork, attending the EAS meeting. I am giving an invited talk Fast X-ray transients, and another talk on kilonovae. 
