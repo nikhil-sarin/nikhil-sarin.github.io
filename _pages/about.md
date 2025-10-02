@@ -26,6 +26,8 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 26th September 2025: Eyles-Ferris et al. 2025 - _Can GRB 250702B be explained as the tidal disruption of a white dwarf by   an intermediate mass black hole? Yes_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2509.22843v1).
+* 26th September 2025: Gompertz et al. 2025 - _JWST Spectroscopy of GRB 250702B: An Extremely Rare and Exceptionally   Energetic Burst in a Dusty, Massive Galaxy at $z=1.036$_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2509.22778v1).
 * 8th-12th September 2025: This week I am in Hamburg, attending the rattle and shine workshop conference. I am giving a talk on BNS mergers.
 * 1st-3rd September 2025: This week I am attending the Wetton workshop at Oxford. Lots of discussion here about the future of multi-messenger astronomy.
 * 2nd September 2025: Swain et al. 2025 - _GRB 250704B: An Off-axis Short GRB with a Long-Lived Afterglow Plateau_. Check it out on [arXiv](https://arxiv.org/abs/2509.02769).
