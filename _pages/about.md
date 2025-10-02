@@ -13,6 +13,7 @@ and at the Institute of Astronomy, University of Cambridge.
 Previously, I was a Nordita/OKC postdoctoral fellow at the Nordita Institute and the 
 Oskar Klein Center at Stockholm University. 
 My journey started at Monash University, where I completed my PhD in astrophysics in 2021.
+
 I am a theoretical astrophysicist using a combination of analytical and numerical modelling combined with powerful 
 statistical techniques such as Bayesian inference, hierarchical modelling, 
 and machine learning to interpret observations.
