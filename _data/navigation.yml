@@ -3,11 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Software"
+    url: /software/
+
+  - title: "Collaborations"
+    url: /collaborations/
+
   - title: "Talks"
     url: /talks/
 
   - title: "Group/potential projects"
     url: /group/
+
+  - title: "News Archive"
+    url: /news-archive/
 
 #  - title: "Portfolio"
 #    url: /portfolio/
