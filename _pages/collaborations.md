@@ -4,7 +4,7 @@ title: "Research Collaborations"
 author_profile: true
 ---
 
-I am an active member of several major international collaborations working on gravitational waves, electromagnetic transients, and multi-messenger astrophysics.
+I am an active member of several major international collaborations working on gravitational waves, electromagnetic transients, and multi-messenger astrophysics. These include:
 
 ---
 
@@ -26,7 +26,7 @@ I am an active member of several major international collaborations working on g
 
 ## Zwicky Transient Facility (ZTF)
 
-**Role:** Active collaborator
+**Role:** Lightcurve modelling and astrophysical interpretation
 
 [Zwicky Transient Facility](https://www.ztf.caltech.edu/)
 
@@ -34,7 +34,7 @@ I am an active member of several major international collaborations working on g
 
 ## Einstein Probe
 
-**Role:** Collaborator on Fast X-ray Transient follow-up
+**Role:** Lightcurve modelling and astrophysical interpretation
 
 [Einstein Probe Mission](https://ep.bao.ac.cn/)
 
