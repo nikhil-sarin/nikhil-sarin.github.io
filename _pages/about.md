@@ -25,26 +25,6 @@ I am a member of numerous collaborations working on electromagnetic transients a
 including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
----
-
-# Research Highlights
-
-## Key Contributions
-
-- **[Redback](https://github.com/nikhil-sarin/redback)**: Open-source Bayesian inference software for electromagnetic transients, now widely used in the community
-- **Nature publication**: Co-author on "Extremely stripped supernova reveals a silicon and sulfur formation site" (cover article, August 2025)
-- **Multi-messenger astrophysics**: Leading research on neutron star mergers combining gravitational waves and electromagnetic observations
-- **Machine learning in astrophysics**: Developing surrogate models for supernova lightcurves and photosphere properties
-
-## Current Focus Areas
-
-- Fast X-ray transients with the Einstein Probe
-- Kilonova modeling and r-process nucleosynthesis
-- Neutron star equation of state from gravitational-wave observations
-- Binary neutron star merger remnants
-
----
-
 # Recent News (2025)
 
 * **26th September**: Eyles-Ferris et al. 2025 - _Can GRB 250702B be explained as the tidal disruption of a white dwarf by an intermediate mass black hole? Yes_. [arXiv](https://arxiv.org/abs/2509.22843v1)
