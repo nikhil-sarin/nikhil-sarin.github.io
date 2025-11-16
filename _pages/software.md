@@ -14,10 +14,6 @@ I develop open-source software tools for multi-messenger astrophysics and transi
 
 A Python package for fitting and interpreting electromagnetic transient observations.
 
-```bash
-pip install redback
-```
-
 ---
 
 ## Redback Surrogates
@@ -25,10 +21,6 @@ pip install redback
 [GitHub](https://github.com/nikhil-sarin/redback_surrogates)
 
 Neural network surrogate models for electromagnetic transients, providing fast approximations of computationally expensive physics models.
-
-```bash
-pip install redback_surrogates
-```
 
 ---
 
@@ -38,9 +30,13 @@ pip install redback_surrogates
 
 JAX-accelerated version of Redback for GPU-enabled inference and gradient-based sampling.
 
-```bash
-pip install redback-jax
-```
+---
+
+## Bilby
+
+[GitHub](https://git.ligo.org/lscsoft/bilby) | [Documentation](https://lscsoft.docs.ligo.org/bilby/) | [Paper](https://arxiv.org/abs/2006.00714)
+
+Bayesian inference library for gravitational-wave astronomy. I contributed to the validation and testing of the package.
 
 ---
 
