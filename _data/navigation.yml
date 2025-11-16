@@ -3,6 +3,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Software"
+    url: /software/
+
+  - title: "Collaborations"
+    url: /collaborations/
+
   - title: "Talks"
     url: /talks/
 
