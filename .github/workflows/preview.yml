@@ -23,7 +23,12 @@ jobs:
       - name: Build Jekyll site
         run: |
           bundle install
-          bundle exec jekyll build --baseurl "/${{ github.event.repository.name }}/pr-preview/pr-${{ github.event.number }}"
+          # Create preview config that overrides URL and baseurl
+          cat > _config_preview.yml << EOF
+          url: "https://${{ github.repository_owner }}.github.io"
+          baseurl: "/${{ github.event.repository.name }}/pr-preview/pr-${{ github.event.number }}"
+          EOF
+          bundle exec jekyll build --config _config.yml,_config_preview.yml
         env:
           JEKYLL_ENV: production
 
