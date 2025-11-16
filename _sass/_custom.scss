@@ -187,17 +187,24 @@ code {
   background-color: $code-background-color;
   border-radius: 3px;
   padding: 0.2em 0.4em;
-  font-size: 0.9em;
+  font-size: 1em;
 }
 
 pre {
   background-color: #1e293b;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 1.2em;
+  overflow-x: auto;
+  line-height: 1.6;
 
   code {
     background-color: transparent;
     color: #e2e8f0;
+    font-size: 1em;
+    line-height: 1.6;
+    display: block;
+    white-space: pre;
   }
 }
 
