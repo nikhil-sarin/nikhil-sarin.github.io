@@ -26,19 +26,21 @@ h3 {
    ========================================================================== */
 
 .page__content {
-  a:not(.btn) {
-    color: #2563eb;
-    font-weight: 500;
-    text-decoration: underline;
+  a {
+    color: #2563eb !important;
+    font-weight: 600 !important;
+    text-decoration: underline !important;
+    text-decoration-thickness: 2px !important;
+    text-underline-offset: 2px !important;
     transition: all 0.2s ease-in-out;
 
     &:hover {
-      color: #1d4ed8;
-      background-color: rgba(#2563eb, 0.08);
+      color: #1d4ed8 !important;
+      background-color: rgba(#2563eb, 0.1);
     }
 
     &:visited {
-      color: #7c3aed;
+      color: #7c3aed !important;
     }
   }
 }
