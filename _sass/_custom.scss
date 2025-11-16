@@ -187,7 +187,7 @@ code {
   background-color: $code-background-color;
   border-radius: 3px;
   padding: 0.2em 0.4em;
-  font-size: 1em;
+  font-size: 1.15em;
 }
 
 pre {
@@ -196,13 +196,13 @@ pre {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   padding: 1.2em;
   overflow-x: auto;
-  line-height: 1.6;
+  line-height: 1.7;
 
   code {
     background-color: transparent;
     color: #e2e8f0;
-    font-size: 1em;
-    line-height: 1.6;
+    font-size: 1.15em;
+    line-height: 1.7;
     display: block;
     white-space: pre;
   }
