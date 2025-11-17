@@ -30,23 +30,23 @@ For a complete list including collaborative works, visit:
 
 5. **Sarin**, Clarke, Magnall et al. (2024), *The origin of the coherent radio flash potentially associated with GRB 201006A*. ApJL 973:L22. [arXiv](https://arxiv.org/abs/2404.08048)
 
-6. **Sarin**, Lasky & Nathan (2023), *Missed opportunities: GRB 211211A and the case for continual gravitational-wave coverage with a single observatory.* MNRAS 518:4. [arXiv](https://arxiv.org/abs/2210.14938)
+6. **Sarin**, Omand, Margalit et al. (2022), *On the diversity of magnetar-driven kilonovae*. MNRAS 516:4. [arXiv](https://arxiv.org/abs/2205.14159)
 
-7. **Sarin**, Omand, Margalit et al. (2022), *On the diversity of magnetar-driven kilonovae*. MNRAS 516:4. [arXiv](https://arxiv.org/abs/2205.14159)
+7. **Sarin**, Hamburg, Burns et al. (2022), *Low-efficiency long gamma-ray bursts: A case study with AT2020blt*. MNRAS 512:1. [arXiv](https://arxiv.org/abs/2106.01556)
 
-8. **Sarin**, Hamburg, Burns et al. (2022), *Low-efficiency long gamma-ray bursts: A case study with AT2020blt*. MNRAS 512:1. [arXiv](https://arxiv.org/abs/2106.01556)
+8. **Sarin**, Lasky & Ashton (2020), *Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars*. MNRAS 499:4. [arXiv](https://arxiv.org/abs/2008.05745)
 
-9. **Sarin**, Lasky, Vivanco et al. (2022), *Linking the rates of neutron star binaries and short gamma-ray bursts*. Physical Review D 105:083004. [arXiv](https://arxiv.org/abs/2201.08491)
-
-10. **Sarin** & Lasky (2021), *The evolution of binary neutron star post-merger remnants: a review*. General Relativity and Gravitation 53:59. **Invited review.** [arXiv](https://arxiv.org/abs/2012.08172)
-
-11. **Sarin**, Lasky & Ashton (2020), *Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars*. MNRAS 499:4. [arXiv](https://arxiv.org/abs/2008.05745)
-
-12. **Sarin**, Lasky & Ashton (2019), *X-ray afterglows of short gamma-ray bursts: Magnetar or Fireball?*. ApJ 872:114. [arXiv](https://arxiv.org/abs/1812.08176)
+9. **Sarin**, Lasky & Ashton (2019), *X-ray afterglows of short gamma-ray bursts: Magnetar or Fireball?*. ApJ 872:114. [arXiv](https://arxiv.org/abs/1812.08176)
 
 ---
 
-## Neutron Stars & Gravitational Waves
+## Neutron Stars & Gravitational Waves & Multi-messenger Astronomy
+
+10. **Sarin**, Lasky & Nathan (2023), *Missed opportunities: GRB 211211A and the case for continual gravitational-wave coverage with a single observatory.* MNRAS 518:4. [arXiv](https://arxiv.org/abs/2210.14938)
+
+11. **Sarin**, Lasky, Vivanco et al. (2022), *Linking the rates of neutron star binaries and short gamma-ray bursts*. Physical Review D 105:083004. [arXiv](https://arxiv.org/abs/2201.08491)
+
+12. **Sarin** & Lasky (2021), *The evolution of binary neutron star post-merger remnants: a review*. General Relativity and Gravitation 53:59. **Invited review.** [arXiv](https://arxiv.org/abs/2012.08172)
 
 13. **Sarin**, Peiris, Alsing et al. (2024), *Measuring the nuclear equation of state with neutron star-black hole mergers*. Physical Review D 110:023032. [arXiv](https://arxiv.org/abs/2311.05689)
 
