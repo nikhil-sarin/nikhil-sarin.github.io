@@ -42,7 +42,7 @@ I am an active member of several major international collaborations working on g
 
 ## Time Domain Telescope (TDT)
 
-**Role:** Working Group Leader, Origin and Physics of Relativistic Transients
+**Role:** Working Group Leader - Multi-messenger astronomy and Relativistic Transients
 
 [Time Domain Telescope](https://www.astro.dur.ac.uk/~simo/TDTelescope/index.html)
 
