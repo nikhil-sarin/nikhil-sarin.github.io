@@ -26,7 +26,9 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
-* 16th December 2025: Nissanke et al. 2025 - _Multi-messenger and time-domain astronomy in the 2040s_ submitted. Exciting roadmap for the future of multi-messenger astronomy! Check it out on [arXiv](https://arxiv.org/abs/2512.14546).
+* 17th December 2025: Sarin et al. 2025 - _GRBs and Relativistic Transients in the 2040s_ submitted for the ESO Expanding Horizons call. Check it out on [arXiv](https://arxiv.org/abs/2512.15010).
+* 16th December 2025: Chrimes, Sarin, et al. 2025 - _Luminous Fast Blue Optical Transients in the 2040s_ submitted for the ESO Expanding Horizons call. Check it out on [arXiv](https://arxiv.org/abs/2512.14832).
+* 16th December 2025: Nissanke, Sarin, et al. 2025 - _Multi-messenger and time-domain astronomy in the 2040s_ submitted for the ESO Expanding Horizons call. Check it out on [arXiv](https://arxiv.org/abs/2512.14546).
 * 12th December 2025: Hoof et al. 2025 - _JWST and HST observations of the host galaxy and supernova, SN 2024aihh in EP240801a at z=1.67_ submitted. Beautiful JWST data of an Einstein Probe transient. Check it out on [arXiv](https://arxiv.org/abs/2512.11572).
 * 11th December 2025: Srinivasaragavan et al. 2025 - _EP250827b/SN 2025wkm: An X-ray Flash-Supernova Powered by a Central Engine and Circumstellar Interaction_ submitted. Another exciting Einstein Probe discovery! Check it out on [arXiv](https://arxiv.org/abs/2512.10239).
 * 17th November 2025: Quirola-Vásquez et al. 2025 - _Unveiling the nature of the Einstein Probe transient EP 241021a_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2511.13314).
