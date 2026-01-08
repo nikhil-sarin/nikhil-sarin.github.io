@@ -87,17 +87,26 @@ def extract_existing_arxiv_ids(about_content):
 
 def format_paper_news(paper):
     """Format paper in the exact style used in the about page."""
-    # Determine the first author for the news format
+    # Find Nikhil Sarin's position in the author list
+    sarin_position = None
+    for i, author in enumerate(paper['authors']):
+        if 'sarin' in author.lower() and ('nikhil' in author.lower() or 'n.' in author.lower()):
+            sarin_position = i + 1  # 1-indexed position
+            break
+
     first_author = paper['authors'][0] if paper['authors'] else "Unknown"
-    
-    # Check if Nikhil Sarin is first author
-    if 'sarin' in first_author.lower() and ('nikhil' in first_author.lower() or 'n.' in first_author.lower()):
-        # First author format: "Sarin et al. YYYY"
+    first_author_lastname = first_author.split()[-1]
+
+    # Format based on Sarin's position
+    if sarin_position == 1:
+        # First author: "Sarin et al."
         author_str = "Sarin et al."
+    elif sarin_position in [2, 3]:
+        # Second or third author: "FirstAuthor, Sarin, et al."
+        author_str = f"{first_author_lastname}, Sarin, et al."
     else:
-        # Co-author format: "FirstAuthor et al. YYYY" 
-        last_name = first_author.split()[-1]
-        author_str = f"{last_name} et al."
+        # Fourth+ author or not found: "FirstAuthor et al."
+        author_str = f"{first_author_lastname} et al."
     
     # Format date as "Day Month YYYY" (e.g., "4th June 2025")
     day = paper['published_date'].day
