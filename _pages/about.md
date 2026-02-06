@@ -26,6 +26,8 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 6th-20th Feb 2026: Heading to Kyoto Japan, to attend the YITP workshop on the dynamic universe.
+* 4th Feb 2026: Today I am at Royal Holloway, University of London, giving a talk on multi-messenger astrophysics from neutron star mergers.
 * 7th January 2026: Angus et al. 2026 - _Can tidal disruption event models reliably measure black hole masses?_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2601.04406).
 * 6th January 2026: Omand, Sarin, et al. 2026 - _Multiwavelength Modeling of the Luminous Fast Blue Optical Transient AT2024wpp_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2601.03372).
 * 17th December 2025: Sarin et al. 2025 - _GRBs and Relativistic Transients in the 2040s_ submitted for the ESO Expanding Horizons call. Check it out on [arXiv](https://arxiv.org/abs/2512.15010).
