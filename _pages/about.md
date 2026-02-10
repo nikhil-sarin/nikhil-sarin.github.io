@@ -26,8 +26,11 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 9th February 2026: Biswas et al. 2026 - _Identifying Host Galaxies of Binary Black Hole Mergers with Next-Generation Gravitational Wave Detector Networks_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2602.08459).
+* 5th February 2026: Sinha et al. 2026 - _Searching for gravitational waves from compact binary mergers powering long gamma-ray bursts during LIGO-Virgo-KAGRA's O3 run_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2602.05169).
 * 6th-20th Feb 2026: Heading to Kyoto Japan, to attend the YITP workshop on the dynamic universe.
-* 4th Feb 2026: Today I am at Royal Holloway, University of London, giving a talk on multi-messenger astrophysics from neutron star mergers.
+* 4th Feb 2026: Today I am at Royal Holloway, University of London, giving a talk on multi-messenger astrophysics from neutron star mergers.* 
+* 2nd February 2026: Sarin et al. 2026 - _Lightcurve Modelling of 2,205 ZTF DR2 Type Ia Supernovae: Implications for SN Ia Physics and Cosmology_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2602.02677).
 * 7th January 2026: Angus et al. 2026 - _Can tidal disruption event models reliably measure black hole masses?_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2601.04406).
 * 6th January 2026: Omand, Sarin, et al. 2026 - _Multiwavelength Modeling of the Luminous Fast Blue Optical Transient AT2024wpp_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2601.03372).
 * 17th December 2025: Sarin et al. 2025 - _GRBs and Relativistic Transients in the 2040s_ submitted for the ESO Expanding Horizons call. Check it out on [arXiv](https://arxiv.org/abs/2512.15010).
