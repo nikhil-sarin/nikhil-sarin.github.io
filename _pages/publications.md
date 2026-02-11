@@ -21,6 +21,7 @@ For a complete list including collaborative works, visit:
 ---
 
 ## High-Energy Transients
+1. **Sarin**, Lindsjo, Kelsey et al. (2026), *Lightcurve Modelling of 2,205 ZTF DR2 Type Ia Supernovae: Implications for SN Ia Physics and Cosmology. [arXiv](https://arxiv.org/abs/2602.02677).
 
 2. **Sarin**, Moriya, Singh et al. (2025), *Surrogate models for lightcurves and photosphere properties of Type II supernovae*. MNRAS. [arXiv](https://arxiv.org/abs/2506.02107)
 
@@ -42,18 +43,18 @@ For a complete list including collaborative works, visit:
 
 ## Neutron Stars & Gravitational Waves & Multi-messenger Astronomy
 
-10. **Sarin**, Lasky & Nathan (2023), *Missed opportunities: GRB 211211A and the case for continual gravitational-wave coverage with a single observatory.* MNRAS 518:4. [arXiv](https://arxiv.org/abs/2210.14938)
+1. **Sarin**, Lasky & Nathan (2023), *Missed opportunities: GRB 211211A and the case for continual gravitational-wave coverage with a single observatory.* MNRAS 518:4. [arXiv](https://arxiv.org/abs/2210.14938)
 
-11. **Sarin**, Lasky, Vivanco et al. (2022), *Linking the rates of neutron star binaries and short gamma-ray bursts*. Physical Review D 105:083004. [arXiv](https://arxiv.org/abs/2201.08491)
+2. **Sarin**, Lasky, Vivanco et al. (2022), *Linking the rates of neutron star binaries and short gamma-ray bursts*. Physical Review D 105:083004. [arXiv](https://arxiv.org/abs/2201.08491)
 
-12. **Sarin** & Lasky (2021), *The evolution of binary neutron star post-merger remnants: a review*. General Relativity and Gravitation 53:59. **Invited review.** [arXiv](https://arxiv.org/abs/2012.08172)
+3. **Sarin** & Lasky (2021), *The evolution of binary neutron star post-merger remnants: a review*. General Relativity and Gravitation 53:59. **Invited review.** [arXiv](https://arxiv.org/abs/2012.08172)
 
-13. **Sarin**, Peiris, Alsing et al. (2024), *Measuring the nuclear equation of state with neutron star-black hole mergers*. Physical Review D 110:023032. [arXiv](https://arxiv.org/abs/2311.05689)
+4. **Sarin**, Peiris, Alsing et al. (2024), *Measuring the nuclear equation of state with neutron star-black hole mergers*. Physical Review D 110:023032. [arXiv](https://arxiv.org/abs/2311.05689)
 
-14. **Sarin**, Brandenburg & Haskell (2023), *Confronting the neutron star population with inverse cascades*. ApJL 952:21S. [arXiv](https://arxiv.org/abs/2305.14347)
+5. **Sarin**, Brandenburg & Haskell (2023), *Confronting the neutron star population with inverse cascades*. ApJL 952:21S. [arXiv](https://arxiv.org/abs/2305.14347)
 
-15. **Sarin** & Lasky (2022), *Multimessenger astronomy with a kHz-band gravitational-wave observatory*. PASA 39:e007. **Editor's Pick 2022.** [arXiv](https://arxiv.org/abs/2110.10892)
+6. **Sarin** & Lasky (2022), *Multimessenger astronomy with a kHz-band gravitational-wave observatory*. PASA 39:e007. **Editor's Pick 2022.** [arXiv](https://arxiv.org/abs/2110.10892)
 
-16. **Sarin**, Lasky & Ashton (2020), *Gravitational waves or deconfined quarks: What causes the premature collapse of neutron stars born in short gamma-ray bursts?*. Physical Review D 101:063021. [arXiv](https://arxiv.org/abs/2001.06102)
+7. **Sarin**, Lasky & Ashton (2020), *Gravitational waves or deconfined quarks: What causes the premature collapse of neutron stars born in short gamma-ray bursts?*. Physical Review D 101:063021. [arXiv](https://arxiv.org/abs/2001.06102)
 
-17. **Sarin**, Lasky, Sammut & Ashton (2018), *X-ray guided gravitational-wave search for binary neutron star merger remnants*. Physical Review D 98:043011. [arXiv](https://arxiv.org/abs/1805.01481)
+8. **Sarin**, Lasky, Sammut & Ashton (2018), *X-ray guided gravitational-wave search for binary neutron star merger remnants*. Physical Review D 98:043011. [arXiv](https://arxiv.org/abs/1805.01481)
