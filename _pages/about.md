@@ -26,6 +26,11 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 17-18th March 2026: In Bath for a couple of days, giving an invited talk on lightcurve modelling of supernovae and transient inference at scale with LSST.
+* 14th March 2026: Singh et al. 2026 - _Nebular Phase Evolution of SN 2023ixf (I): From Circumstellar Infrared Echo to the onset of in-situ Dust Formation in a Type II Supernova_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2603.14137v1).
+* 11th March 2026: Boyd et al. 2026 - _FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2603.11165v2).
+* 9th-13th March 2026: This week I am in Sexten, attending a workshop on Binary Neutron Star Mergers. I am giving a talk on observations of NS binaries.
+* 18th February 2026: Shi et al. 2026 - _The Enigmatic Type Icn Supernova 2024abvb Located ~22 kpc from Its Host Galaxy_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2602.16227v1).
 * 9th February 2026: Biswas et al. 2026 - _Identifying Host Galaxies of Binary Black Hole Mergers with Next-Generation Gravitational Wave Detector Networks_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2602.08459).
 * 5th February 2026: Sinha et al. 2026 - _Searching for gravitational waves from compact binary mergers powering long gamma-ray bursts during LIGO-Virgo-KAGRA's O3 run_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2602.05169).
 * 6th-20th Feb 2026: Heading to Kyoto Japan, to attend the YITP workshop on the dynamic universe.
