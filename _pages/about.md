@@ -26,6 +26,7 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 15th April 2026: Pieterse et al. 2026 - _GRB 210704A: A Luminous Fast Blue Transient in a GRB Afterglow at $z = 2.34$_ accepted in MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2604.14343v1).
 * 17-18th March 2026: In Bath for a couple of days, giving an invited talk on lightcurve modelling of supernovae and transient inference at scale with LSST.
 * 14th March 2026: Singh et al. 2026 - _Nebular Phase Evolution of SN 2023ixf (I): From Circumstellar Infrared Echo to the onset of in-situ Dust Formation in a Type II Supernova_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2603.14137v1).
 * 11th March 2026: Boyd et al. 2026 - _FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2603.11165v2).
