@@ -26,6 +26,11 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 19th May 2026: Sarin and Hirai 2026 - _From mass-loss histories to lightcurves: a generalised framework for interaction-powered transients_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2605.19571v1).
+* 17th May-23rd May: I am in Turku, attending the IAU meeting on transients. 
+* 13th May 2026: Brown et al. 2026 - _Rapid and robust simulation-based inference for kilonovae_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2605.13983v1).
+* 4th May 2026: Ackley et al. 2026 - _ENGRAVE follow-up of a type IIb supernova spatially coincident with the sub-threshold gravitational wave trigger S250818k_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2605.02639v1).
+* 22nd April 2026: Schneider et al. 2026 - _XRF 241001A/SN 2024aiiq: A Faint Soft X-ray Transient Detected by SVOM with a Broad-Line Type Ic Supernova Revealed by JWST_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2604.20346v1).
 * 15th April 2026: Pieterse et al. 2026 - _GRB 210704A: A Luminous Fast Blue Transient in a GRB Afterglow at $z = 2.34$_ accepted in MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2604.14343v1).
 * 17-18th March 2026: In Bath for a couple of days, giving an invited talk on lightcurve modelling of supernovae and transient inference at scale with LSST.
 * 14th March 2026: Singh et al. 2026 - _Nebular Phase Evolution of SN 2023ixf (I): From Circumstellar Infrared Echo to the onset of in-situ Dust Formation in a Type II Supernova_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2603.14137v1).
@@ -54,6 +59,7 @@ the Transients and Variables group in the Vera C. Rubin Observatory.
 * 1st-3rd September 2025: This week I am attending the Wetton workshop at Oxford. Lots of discussion here about the future of multi-messenger astronomy.
 * 20th August 2025: Schulze et al. 2025 - _Extremely stripped supernova reveals a silicon and sulfur formation site_ published in Nature! The paper even made it to the cover page.
 * 19th August 2025: Moved to Cambridge, UK to start Kavli Senior Fellowship.
+* 18th August 2025: Jonker et al. 2025 - _EP250207b is not a collapsar fast X-ray transient. Is it due to a compact object merger?_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2508.13039).
 * 10th July 2025: Wise et al. 2025 - _AT2019cmw: A highly luminous, cooling featureless TDE candidate from the disruption of a high mass star in an early-type galaxy_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2507.07380).
 * 25th June 2025: Das et al. 2025 - _Low-Luminosity Type IIP Supernovae from the Zwicky Transient Facility Census of the Local Universe. II: Lightcurve Analysis_ submitted to ApJ. Check it out on [arXiv](https://arxiv.org/abs/2506.20068).
 * 12th June 2025: Gangopadhyay et al. 2025 - _SN 2023xgo: Helium-rich Type Icn or Carbon-Flash Type Ibn supernova?_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2506.10700).
@@ -63,9 +69,12 @@ the Transients and Variables group in the Vera C. Rubin Observatory.
 * 29th April 2025: Schulze et al. 2025 - _A cosmic formation site of silicon and sulphur revealed by a new type of supernova explosion_ accepted in Nature. Check it out on [arXiv](https://arxiv.org/abs/2409.02054).
 * 24th April 2025: Srinivasaragavan et al. 2025 - _EP250108a/SN 2025kg: A Jet-Driven Stellar Explosion Interacting With Circumstellar Material_ submitted to ApJL. Check it out on [arXiv](https://arxiv.org/abs/2504.17516).
 * 11th April 2025: Eyles-Ferris et al. 2025 - _The kangaroo's first hop: the early fast cooling phase of EP250108a/SN 2025kg_ submitted to ApJL. Check it out on [arXiv](https://arxiv.org/abs/2504.08886).
+* 11th April 2025: Rastinejad et al. 2025 - _EP 250108a/SN 2025kg: Observations of the most nearby Broad-Line Type Ic Supernova following an Einstein Probe Fast X-ray Transient_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2504.08889).
 * 9th April 2025: Wallace and Sarin 2025 - _A detailed dive into fitting strategies for GRB afterglows with contamination: A case study with kilonovae_ accepted in MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2504.08887).
 * 19th March 2025: Lamb et al. 2025 - _Prompt Periodicity in the GRB 211211A Precursor: Black-hole or magnetar engine?_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2503.15613).
 * 18th March 2025: Miller et al. 2025 - _The La Silla Schmidt Southern Survey_ submitted to PASP. Check it out on [arXiv](https://arxiv.org/abs/2503.14579).
+* 13th March 2025: Cooper et al. 2025 - _Joint Radiative and Kinematic Modelling of X-ray Binary Ejecta: Energy Estimate and Reverse Shock Detection_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2503.10804).
+* 11th March 2025: Brennan et al. 2025 - _Precursor Activity Preceding Interacting Supernovae I: Bridging the Gap with SN 2022mop_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2503.08768).
 * 6th March 2025: Jiang et al. 2025 - _EP240801a/XRF 240801B: An X-ray Flash Detected by the Einstein Probe and Implications of its Multiband Afterglow_ submitted to ApJ. Check it out on [arXiv](https://arxiv.org/abs/2503.04306).
 * 1st March 2025: Rosswog, Sarin et al. 2025 - _Fast dynamic ejecta in neutron star mergers_ accepted in MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2411.18813).
 * 6th January 2025: Srinivasaragavan et al. 2025 - _Multiwavelength analysis of AT 2023sva: a luminous orphan afterglow with evidence for a structured jet_ published in MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2501.03337).

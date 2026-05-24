@@ -21,23 +21,25 @@ For a complete list including collaborative works, visit:
 ---
 
 ## High-Energy Transients
-1. **Sarin**, Lindsjo, Kelsey et al. (2026), *Lightcurve Modelling of 2,205 ZTF DR2 Type Ia Supernovae: Implications for SN Ia Physics and Cosmology. [arXiv](https://arxiv.org/abs/2602.02677).
+1. **Sarin** & Hirai (2026), *From mass-loss histories to lightcurves: a generalised framework for interaction-powered transients*. Submitted. [arXiv](https://arxiv.org/abs/2605.19571)
 
-2. **Sarin**, Moriya, Singh et al. (2025), *Surrogate models for lightcurves and photosphere properties of Type II supernovae*. MNRAS. [arXiv](https://arxiv.org/abs/2506.02107)
+2. **Sarin**, Lindsjo, Kelsey et al. (2026), *Lightcurve Modelling of 2,205 ZTF DR2 Type Ia Supernovae: Implications for SN Ia Physics and Cosmology*. [arXiv](https://arxiv.org/abs/2602.02677).
 
-3. **Sarin** & Metzger (2024), *Tidal Disruption Events through the Lens of the Cooling Envelope Model*. ApJL 961:L19. [arXiv](https://arxiv.org/abs/2307.15121)
+3. **Sarin**, Moriya, Singh et al. (2025), *Surrogate models for lightcurves and photosphere properties of Type II supernovae*. MNRAS. [arXiv](https://arxiv.org/abs/2506.02107)
 
-4. **Sarin** & Rosswog (2024), *Cautionary tales on heating-rate prescriptions in kilonovae*. ApJL 971:L17. [arXiv](https://arxiv.org/abs/2404.07271)
+4. **Sarin** & Metzger (2024), *Tidal Disruption Events through the Lens of the Cooling Envelope Model*. ApJL 961:L19. [arXiv](https://arxiv.org/abs/2307.15121)
 
-5. **Sarin**, Clarke, Magnall et al. (2024), *The origin of the coherent radio flash potentially associated with GRB 201006A*. ApJL 973:L22. [arXiv](https://arxiv.org/abs/2404.08048)
+5. **Sarin** & Rosswog (2024), *Cautionary tales on heating-rate prescriptions in kilonovae*. ApJL 971:L17. [arXiv](https://arxiv.org/abs/2404.07271)
 
-6. **Sarin**, Omand, Margalit et al. (2022), *On the diversity of magnetar-driven kilonovae*. MNRAS 516:4. [arXiv](https://arxiv.org/abs/2205.14159)
+6. **Sarin**, Clarke, Magnall et al. (2024), *The origin of the coherent radio flash potentially associated with GRB 201006A*. ApJL 973:L22. [arXiv](https://arxiv.org/abs/2404.08048)
 
-7. **Sarin**, Hamburg, Burns et al. (2022), *Low-efficiency long gamma-ray bursts: A case study with AT2020blt*. MNRAS 512:1. [arXiv](https://arxiv.org/abs/2106.01556)
+7. **Sarin**, Omand, Margalit et al. (2022), *On the diversity of magnetar-driven kilonovae*. MNRAS 516:4. [arXiv](https://arxiv.org/abs/2205.14159)
 
-8. **Sarin**, Lasky & Ashton (2020), *Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars*. MNRAS 499:4. [arXiv](https://arxiv.org/abs/2008.05745)
+8. **Sarin**, Hamburg, Burns et al. (2022), *Low-efficiency long gamma-ray bursts: A case study with AT2020blt*. MNRAS 512:1. [arXiv](https://arxiv.org/abs/2106.01556)
 
-9. **Sarin**, Lasky & Ashton (2019), *X-ray afterglows of short gamma-ray bursts: Magnetar or Fireball?*. ApJ 872:114. [arXiv](https://arxiv.org/abs/1812.08176)
+9. **Sarin**, Lasky & Ashton (2020), *Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars*. MNRAS 499:4. [arXiv](https://arxiv.org/abs/2008.05745)
+
+10. **Sarin**, Lasky & Ashton (2019), *X-ray afterglows of short gamma-ray bursts: Magnetar or Fireball?*. ApJ 872:114. [arXiv](https://arxiv.org/abs/1812.08176)
 
 ---
 
