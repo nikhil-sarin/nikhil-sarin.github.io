@@ -26,6 +26,10 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 4th June 2026: Cotter et al. 2026 - _Probing a new subclass of llGRB-SN transients: Insights from EP250304a and its associated supernova_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2606.06213v1).
+* 3rd June 2026: Bom et al. 2026 - _Toward decision-aware AI for LSST-scale time-domain astronomy_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2606.05285v1).
+* 3rd June 2026: Hinds et al. 2026 - _Early Multiwavelength Observations of AT 2026fgk: The Luminous Afterglow to Sub-luminous GRB 260310A, Identified Independently of a Gamma-ray Trigger_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2606.05146v1).
+* 24th May 2026: Das et al. 2026 - _SN~2018erx: A fast-evolving, dust-reddened Type Icn supernova with broad C II emission lines_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2605.24811v1).
 * 19th May 2026: Sarin and Hirai 2026 - _From mass-loss histories to lightcurves: a generalised framework for interaction-powered transients_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2605.19571v1).
 * 17th May-23rd May: I am in Turku, attending the IAU meeting on transients. 
 * 13th May 2026: Brown et al. 2026 - _Rapid and robust simulation-based inference for kilonovae_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2605.13983v1).
