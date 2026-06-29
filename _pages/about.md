@@ -26,6 +26,10 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 29th-4th July 2026: This week I am in Lausanne, attending the 2026 EAS meeting. I am giving an invited talk on progenitors of transients.
+* 22nd June 2026: Sarin 2026 - _Signatures of 56Ni Mixing and Neutron-rich Ejecta in Supernovae_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2606.23780).
+* 8th June 2026: Rastinejad, Srinivasaragavan, Sarin, et al. 2026 - _A Multi-Wavelength View of the First Type Ic-BL Supernova with an Einstein Probe X-ray Shock Breakout_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2606.10011).
+* 8th June 2026: Martin-Carrillo et al. 2026 - _Failed jet breakout in the metal-poor broad-lined type Ic supernova 2026gzf_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2606.10002).
 * 4th June 2026: Cotter et al. 2026 - _Probing a new subclass of llGRB-SN transients: Insights from EP250304a and its associated supernova_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2606.06213v1).
 * 3rd June 2026: Bom et al. 2026 - _Toward decision-aware AI for LSST-scale time-domain astronomy_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2606.05285v1).
 * 3rd June 2026: Hinds et al. 2026 - _Early Multiwavelength Observations of AT 2026fgk: The Luminous Afterglow to Sub-luminous GRB 260310A, Identified Independently of a Gamma-ray Trigger_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2606.05146v1).
