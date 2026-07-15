@@ -39,9 +39,11 @@ For a complete list including collaborative works, visit:
 
 9. **Sarin**, Hamburg, Burns et al. (2022), *Low-efficiency long gamma-ray bursts: A case study with AT2020blt*. MNRAS 512:1. [arXiv](https://arxiv.org/abs/2106.01556)
 
-10. **Sarin**, Lasky & Ashton (2020), *Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars*. MNRAS 499:4. [arXiv](https://arxiv.org/abs/2008.05745)
+10. **Sarin**, Ashton, Lasky et al. (2021), *CDF-S XT1: Signature of structured jet viewed off-axis at z=2.23*. Submitted. [arXiv](https://arxiv.org/abs/2105.10108)
 
-11. **Sarin**, Lasky & Ashton (2019), *X-ray afterglows of short gamma-ray bursts: Magnetar or Fireball?*. ApJ 872:114. [arXiv](https://arxiv.org/abs/1812.08176)
+11. **Sarin**, Lasky & Ashton (2020), *Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars*. MNRAS 499:4. [arXiv](https://arxiv.org/abs/2008.05745)
+
+12. **Sarin**, Lasky & Ashton (2019), *X-ray afterglows of short gamma-ray bursts: Magnetar or Fireball?*. ApJ 872:114. [arXiv](https://arxiv.org/abs/1812.08176)
 
 ---
 

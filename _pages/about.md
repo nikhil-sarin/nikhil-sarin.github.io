@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Kavli Senior Fellow at the Kavli Institute for Cosmology at the University of Cambridge
+I am a Kavli Senior Fellow/Assistant Research Professor at the Kavli Institute for Cosmology at the University of Cambridge
 and at the Institute of Astronomy, University of Cambridge.
 Previously, I was a Nordita/OKC postdoctoral fellow at the Nordita Institute and the
 Oskar Klein Center at Stockholm University.
@@ -26,7 +26,10 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
-* 29th-4th July 2026: This week I am in Lausanne, attending the 2026 EAS meeting. I am giving an invited talk on progenitors of transients.
+* 9th July 2026: Quirola-Vasquez et al. 2026 - _Multi-wavelength Constraints on the Transient EP250905a_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2607.08090v1).
+* 6-10th July 2026: This week I am in Marseille, attending the Extreme Transient Universe meeting. 
+* 29th June-4th July 2026: This week I am in Lausanne, attending the 2026 EAS meeting. I am giving an invited talk on progenitors of transients.
+* 30th June 2026: Liu et al. 2026 - _Decoding the Early-Time Light Curves of Type Ia Supernovae. II. Population Parameters of One Thousand ZTF Supernovae_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2607.00081v1).
 * 22nd June 2026: Sarin 2026 - _Signatures of 56Ni Mixing and Neutron-rich Ejecta in Supernovae_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2606.23780).
 * 8th June 2026: Rastinejad, Srinivasaragavan, Sarin, et al. 2026 - _A Multi-Wavelength View of the First Type Ic-BL Supernova with an Einstein Probe X-ray Shock Breakout_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2606.10011).
 * 8th June 2026: Martin-Carrillo et al. 2026 - _Failed jet breakout in the metal-poor broad-lined type Ic supernova 2026gzf_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2606.10002).

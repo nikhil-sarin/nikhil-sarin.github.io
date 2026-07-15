@@ -48,6 +48,14 @@ I am an active member of several major international collaborations working on g
 
 ---
 
+## ENGRAVE
+
+**Role:** Member, lightcurve modelling and astrophysical interpretation
+
+[ENGRAVE](https://www.engrave-eso.org/)
+
+---
+
 ## OzGrav - Centre of Excellence for Gravitational Wave Discovery
 
 **Role:** Associate Investigator
