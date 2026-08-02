@@ -26,6 +26,10 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 27th-31st July 2026: This week I hosted the CosmicExplosions2026 [workshop](https://cambridgetransients.github.io/CosmicExplosions2026/index.html) at the Kavli Institute for Cosmology, Cambridge. It was a great week of discussions on the physics of transients and multi-messenger astrophysics.
+* 30th July 2026: Yallup et al. 2026 - _Ab Initio Real-Time Gravitational-Wave Parameter Estimation_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2607.28265v1).
+* 28th July 2026: Levan et al. 2026 - _Gamma-ray burst progenitors revisited_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2607.26133v1).
+* 20th July 2026: Zhang, Zha, Sarin, et al. 2026 - _Surrogate models for type II supernovae: Probing low-energy explosions and interaction-free regimes_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2607.17488v1).
 * 9th July 2026: Quirola-Vasquez et al. 2026 - _Multi-wavelength Constraints on the Transient EP250905a_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2607.08090v1).
 * 6-10th July 2026: This week I am in Marseille, attending the Extreme Transient Universe meeting. 
 * 29th June-4th July 2026: This week I am in Lausanne, attending the 2026 EAS meeting. I am giving an invited talk on progenitors of transients.
