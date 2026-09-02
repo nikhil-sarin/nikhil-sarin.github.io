@@ -26,6 +26,11 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 28th August 2026: Li et al. 2026 - _Follow-up of SN 2025wny II: Superluminous Supernova Physics at Cosmic Noon_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2608.28415v1).
+* 27th August 2026: Cotter, Sarin, Martin-Carrillo. 2026 - _Exploring the capabilities of combined modelling strategies for supernova with relativistic jets using Redback_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2608.27567v1).
+* 20th August 2026: Dong et al. 2026 - _Probabilistic kilonova prediction from gravitational wave inferred binary neutron star parameters_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2608.20262v1).
+* 20-28th August 2026: I gave three colloquia over the last week or so. One at Swinburne University, one at the University of Melbourne, and one at Monash University. 
+* 4th August 2026: van Hoof et al. 2026 - _A JWST redshift for the host galaxy of EP250207b of z=3.2: a collapsar origin is viable_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2608.03582v1).
 * 27th-31st July 2026: This week I hosted the CosmicExplosions2026 [workshop](https://cambridgetransients.github.io/CosmicExplosions2026/index.html) at the Kavli Institute for Cosmology, Cambridge. It was a great week of discussions on the physics of transients and multi-messenger astrophysics.
 * 30th July 2026: Yallup et al. 2026 - _Ab Initio Real-Time Gravitational-Wave Parameter Estimation_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2607.28265v1).
 * 28th July 2026: Levan et al. 2026 - _Gamma-ray burst progenitors revisited_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2607.26133v1).
