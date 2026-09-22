@@ -26,6 +26,9 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 18th September 2026: Giving an invited talk in Stockholm at the Astronomy department on transient lightcurve modelling and inference.
+* 11th September 2026: Sánchez-Sierras et al. 2026 - _Gas absorption of soft X-rays strongly impacts the redshift distribution of dark Fast X-ray Transients_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2609.13385v1).
+* 7th to 11th: This week I am attending the Kavli Astrophysics Symposium in Cambridge. I am giving a few talks on AI for scientific practice. Gravitational-wave multi-messenger astronomy and sitting on a panel about neutron star science. 
 * 28th August 2026: Li et al. 2026 - _Follow-up of SN 2025wny II: Superluminous Supernova Physics at Cosmic Noon_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2608.28415v1).
 * 27th August 2026: Cotter, Sarin, Martin-Carrillo. 2026 - _Exploring the capabilities of combined modelling strategies for supernova with relativistic jets using Redback_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2608.27567v1).
 * 20th August 2026: Dong et al. 2026 - _Probabilistic kilonova prediction from gravitational wave inferred binary neutron star parameters_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2608.20262v1).
