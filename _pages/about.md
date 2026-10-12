@@ -26,6 +26,9 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 12-14th October 2026: I am attending the Astrocolibiri meeting in Paris. I am giving an invited talk on the Redback framework. 
+* 12th October 2026: Dobie et al. 2026 - _ASKAP Monitoring of the Rubin Deep Drilling Fields_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2610.13011v1).
+* 28th September 2026: Schneider, Levan, Sarin, et al. 2026 - _JWST unveils a dust-obscured supernova associated with a gamma-ray burst_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2609.35697v1).
 * 18th September 2026: Giving an invited talk in Stockholm at the Astronomy department on transient lightcurve modelling and inference.
 * 11th September 2026: Sánchez-Sierras et al. 2026 - _Gas absorption of soft X-rays strongly impacts the redshift distribution of dark Fast X-ray Transients_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2609.13385v1).
 * 7th to 11th: This week I am attending the Kavli Astrophysics Symposium in Cambridge. I am giving a few talks on AI for scientific practice. Gravitational-wave multi-messenger astronomy and sitting on a panel about neutron star science. 
