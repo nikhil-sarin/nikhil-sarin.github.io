@@ -26,6 +26,9 @@ including the LIGO Scientific Collaboration (LSC) and
 the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 20th October 2026: Jamsin et al. 2026 - _Can we constrain the binary neutron star merger time from kilonova light curves?_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2610.28775v1).
+* 20th October 2026: Ravasio et al. 2026 - _The (missing) gamma-ray counterparts to EP events_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2610.28734v1).
+* 19th October 2026: Schulze, Singh, Sarin, et al. 2026 - _SN 2023iop: An Extreme 1987A-like Supernova and the Death of Very Massive Stars_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2610.27312v1).
 * 12-14th October 2026: I am attending the Astrocolibiri meeting in Paris. I am giving an invited talk on the Redback framework. 
 * 12th October 2026: Dobie et al. 2026 - _ASKAP Monitoring of the Rubin Deep Drilling Fields_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2610.13011v1).
 * 28th September 2026: Schneider, Levan, Sarin, et al. 2026 - _JWST unveils a dust-obscured supernova associated with a gamma-ray burst_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2609.35697v1).
